@@ -43,12 +43,13 @@ section{
 }
 /** home **/
 #home{
-    background:url(images.jpg/spices6.jpg);
+    background:url(images/spices6.jpg);
     background-size: cover !important;
     background-position: center !important;
 }
 #home h1{
     font-size: 100px;
+    width: 100vh;
     color:white;
     letter-spacing: 3px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
